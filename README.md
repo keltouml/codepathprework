@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 I had several issues programmed the random generator on swift
 I had some issues with my font showing up when I used a custom one so I stuck with the standard system font
-I would constantly receive an error when I tried programming my second view controller but this error was fixed when I retraced my steps and tried a new approach 
+I would constantly receive an error when I tried programming my second view controller but this error was fixed when I retraced my steps and attempted a new approach 
 
 ## License
 
